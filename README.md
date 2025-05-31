@@ -1,22 +1,30 @@
-# my-algo-bank
+🔗 Hello Bank – Algorand Smart Contract (Workshop 3.0 Python)
+This project demonstrates a Python smart contract deployed on the Algorand LocalNet using AlgoKit. The contract provides a simple App Call method and supports ALGO transactions within a simulation environment.
 
-Welcome to your new AlgoKit project!
+✅ Key Features:
+📜 App Call Method:
 
-This is your workspace root. A `workspace` in AlgoKit is an orchestrated collection of standalone projects (backends, smart contracts, frontend apps and etc).
+Method: hello
 
-By default, `projects_root_path` parameter is set to `projects`. Which instructs AlgoKit CLI to create a new directory under `projects` directory when new project is instantiated via `algokit init` at the root of the workspace.
+Returns a custom greeting using the user’s name.
 
-## Getting Started
+Example Output: "Hello, Adeel Arif Dev"
 
-To get started refer to `README.md` files in respective sub-projects in the `projects` directory.
+💸 Simulated Payment:
 
-To learn more about algokit, visit [documentation](https://github.com/algorandfoundation/algokit-cli/blob/main/docs/algokit.md).
+A transaction group simulates a 10 ALGO payment alongside the App Call.
 
-### GitHub Codespaces
+Clear visual flow of the App Call and Payment is shown under Transaction Visual.
 
-To get started execute:
+🔄 Transaction Summary:
 
-1. `algokit generate devcontainer` - invoking this command from the root of this repository will create a `devcontainer.json` file with all the configuration needed to run this project in a GitHub codespace. [Run the repository inside a codespace](https://docs.github.com/en/codespaces/getting-started/quickstart) to get started.
-2. `algokit init` - invoke this command inside a github codespace to launch an interactive wizard to guide you through the process of creating a new AlgoKit project
+App Call to method hello
 
-Powered by [Copier templates](https://copier.readthedocs.io/en/stable/).
+Payment transaction of 10 ALGO (from caller to smart contract address)
+
+Combined call & payment simulation successful on LocalNet
+
+📍Current Deployment:
+📡 LocalNet using AlgoKit UI
+
+🧪 Features tested through simulation interface (Call + Add Transaction)
