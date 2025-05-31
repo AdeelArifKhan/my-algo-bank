@@ -28,3 +28,11 @@ Combined call & payment simulation successful on LocalNet
 📡 LocalNet using AlgoKit UI
 
 🧪 Features tested through simulation interface (Call + Add Transaction)
+
+https://lora.algokit.io/localnet/application/1002
+![image](https://github.com/user-attachments/assets/feb99b0e-c776-44da-b025-b877821ea023)
+
+![image](https://github.com/user-attachments/assets/82d6394b-54d9-4561-80f2-f088bb7aadfe)
+
+
+
