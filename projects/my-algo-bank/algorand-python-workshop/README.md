@@ -1,4 +1,4 @@
-# my-algo-bank
+# algorand-python-workshop
 
 Welcome to your new AlgoKit project!
 
