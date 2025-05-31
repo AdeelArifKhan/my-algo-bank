@@ -9,6 +9,9 @@ Method: hello
 
 Returns a custom greeting using the user’s name.
 
+Application Id : 1002
+
+
 Example Output: "Hello, Adeel Arif Dev"
 
 💸 Simulated Payment:
