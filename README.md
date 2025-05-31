@@ -1,4 +1,5 @@
-🔗 Hello Bank – Algorand Smart Contract (Workshop 3.0 Python)
+🔗 Hello 
+My Algo Bank – Algorand Smart Contract (Workshop 3.0 Python) Practice
 This project demonstrates a Python smart contract deployed on the Algorand LocalNet using AlgoKit. The contract provides a simple App Call method and supports ALGO transactions within a simulation environment.
 
 ✅ Key Features:
